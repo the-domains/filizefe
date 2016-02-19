@@ -1,0 +1,14 @@
+layout_spectrum: 0.2736359
+typography_spectrum: 0.6689207
+color:
+  saturation: 0.8238417
+  lightness: 0.0592549
+  brandStrength: 0.128651
+  rhythmicContrast: 0.09313359
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: filizefe
